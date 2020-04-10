@@ -4,9 +4,9 @@
   "description": "HX Pub Demo",
   "license": "MIT",
   "classPath": "src",
-  "releasenote": "Initial Release",
+  "releasenote": "Next Test Release",
   "contributors": ["balajipdm"],
-  "version": "0.0.1",
+  "version": "0.0.2",
   "tags": ["haxe", "sass", "mdl-lite", "js"],
   "dependencies": {
   }

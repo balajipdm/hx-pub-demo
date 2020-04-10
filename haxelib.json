@@ -1,0 +1,13 @@
+{
+  "name": "hx-pub-demo",
+  "url": "https://github.com/balajipdm/hx-pub-demo",
+  "description": "HX Pub Demo",
+  "license": "MIT",
+  "classPath": "src",
+  "releasenote": "Initial Release",
+  "contributors": ["balajipdm"],
+  "version": "0.0.1",
+  "tags": ["haxe", "sass", "mdl-lite", "js"],
+  "dependencies": {
+  }
+}
